@@ -1,7 +1,7 @@
 # Pin Workflow Initializer
 
 A powerful Chrome extension that helps you instantly organize your workspace by managing pinned tabs and tab groups across windows with a single click or keyboard shortcut.
-
+  
 ## 🎯 Purpose
 
 Perfect for professionals who:
